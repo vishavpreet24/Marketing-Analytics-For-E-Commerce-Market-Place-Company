@@ -34,4 +34,4 @@ b. Which payment channels are used by most customers?
 a. Which categories (top 10) are maximum rated & minimum rated?
 b. Which products (top10) are maximum rated & minimum rated?
 c. Average rating by location, seller, product, category, month etc.
-Etc..
+   
